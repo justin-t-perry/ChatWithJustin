@@ -56,6 +56,7 @@ Sales Engineer
  Orchestrated product demonstrations, led industry-targeted presentations, managed evaluations and proof-of-
  Collaborated closely with product, engineering, and operations teams to influence the development of new products and provide feedback on existing solutions from a customer perspective.
  Contributed to the development of sales engineering processes, aiding in the establishment of a new sales engineering team.
+!!this is an AI company.  this is where i worked with AI and had to update models and handle poc's, datasets, etc.
 
 iboss worked January 2022 - May 2022
 Technical Sales Executive
@@ -89,7 +90,7 @@ Various python libraries such as scikit learn, pytorch, tensorflow
 worked with fraud ai startup with computer vision
 works with Convolutional Neural Networks, large language models
 online courses and several ai books
-familiar with kaggle, python, ollama, etc.
+familiar with kaggle, python, ollama, sagemaker, vertex, etc.
 
 
 Cisco specific AI experience: 
