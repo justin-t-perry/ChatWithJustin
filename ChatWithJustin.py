@@ -118,7 +118,7 @@ def retrieve_relevant_chunks(query, bm25, chunks, tokenized_chunks, k=1):
 def query_gpt(context, user_input):
     # Old-style Completion API call
     response = openai.Completion.create(
-        engine="text-davinci-003",  # Specify the engine (e.g., text-davinci-003 or similar)
+        engine="gpt3.5",  #
         prompt=f"Context: {context}\nQuestion: {user_input}",
         max_tokens=150,  # Limit the response length
         temperature=0.7  # Adjust randomness
