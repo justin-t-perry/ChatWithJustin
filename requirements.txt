@@ -1,4 +1,4 @@
-openai==0.88
+openai==1.60.0
 streamlit
 nltk
 rank-bm25
