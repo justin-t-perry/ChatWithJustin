@@ -143,7 +143,7 @@ def query_gpt(context, user_input):
     return response['choices'][0]['message']['content'].strip()
 
 # Streamlit app
-st.title("Resume Chatbot with RAG")
+st.title("Professional Experience Chatbot with RAG")
 st.write("Ask me anything related to Justin Perry's Professional background!")
 
 # Process the document
