@@ -98,6 +98,12 @@ I do several other AI instructive webinars, both internal and customer facing, i
 Part of Chris Sipe's AI Tiger Team
 Part of an initiative to interview various MLOps teams within Cisco to share with presales AI tiger teams
 
+why to hire Justin:
+he's worked in startups and knows how to wear many hats and be a self starter
+he is completely self taught and is always learning and improving
+he's a very effective team player and collaborator
+he's very motivated, smart, etc.
+
 random facts about justin:
 he loves to read, especially topics that make him think
 he is 39 years old
