@@ -131,7 +131,6 @@ def retrieve_relevant_chunks(query, bm25, chunks, tokenized_chunks, k=1):
 
 # Query OpenAI GPT with retrieved context and user query
 def query_gpt(context, user_input):
-    # Use the latest ChatCompletion interface for chat models
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",  # Or "gpt-4" for advanced reasoning
         messages=[
