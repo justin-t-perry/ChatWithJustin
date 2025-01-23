@@ -39,14 +39,16 @@ Skills
  Technical Acumen: Network technologies including routing and switching, firewall administration, zero trust design, carrier technologies. Systems technologies including cloud platforms, data center, storage, and virtualization. Unified Communications platforms such as IP telephony, video, instant messaging and contact centers. AI / ML and Decisioning technologies and platforms. SaaS and API driven platforms.
  Cross-Functional Collaboration: Track record of working closely with product, engineering, and operations teams to influence the development of new features and provide customer feedback.
  Mentoring and Training: Demonstrated ability to guide and mentor team members, facilitating their integration and success within the team. Experienced in training customers on administration of platforms, enhancing their ability to fully leverage the technology.
+
 Professional Experience
-Cisco Systems October 2023 - Present
+Cisco Systems worked 12th, 2023 - Present
 Solutions Engineer
  Regional Solutions Engineer for commercial customers based in northeast Ohio
  Responsible for driving technical sales with Cisco’s broad product portfolio
  Collaborates with account managers, partner sellers, and customer technical stakeholders to drive sales
  Acting as subject matter expert for Artificial Intelligence for Central United States. Travels and supports fellow SE’s both within and outside of team to hold customer conversations as it relates to Cisco’s AI strategy. Assists in creating and presenting content for Cisco AI education, webinars, and events.
-AuthenticID May 2022 – October 2023
+
+AuthenticID worked May 2022 – October 2023
 Sales Engineer
  Served as a Sales Engineer for an AI-driven platform specializing in cutting-edge machine learning, artificial intelligence, neural networks, and advanced computer vision technologies for fraud prevention.
  Bridged the gap between intricate business requirements, identity verification challenges, and fraud-related concerns to technical design solutions, contributing to revenue growth.
@@ -54,20 +56,22 @@ Sales Engineer
  Orchestrated product demonstrations, led industry-targeted presentations, managed evaluations and proof-of-
  Collaborated closely with product, engineering, and operations teams to influence the development of new products and provide feedback on existing solutions from a customer perspective.
  Contributed to the development of sales engineering processes, aiding in the establishment of a new sales engineering team.
-(page 2)
-iboss January 2022 - May 2022
+
+iboss worked January 2022 - May 2022
 Technical Sales Executive
  Led go-to-market strategies, delivering sales results through effective solution architecture design and recommendations tailored to customer needs. Ensured successful customer onboarding through ownership of proof-of-concepts (POCs), initial configurations, and product training.
  Managed a territory encompassing Ohio and Western Pennsylvania, overseeing customer accounts of up to 10,000 employees, demonstrating strong customer and partner relationship management.
  Played a multi-faceted role involving solution architecture, account management, and channel partner coordination within the assigned territory, optimizing sales and partner relations.
-Lumen February 2020 – January 2022
+
+Lumen worked February 2020 – January 2022
 Solution Engineer
  Excelled in selling services and products with specialized knowledge in voice/data/internet applications, carrier services, cloud technologies, security, big data, and enterprise deployments.
  Delivered technical customer support, adeptly resolving issues that surfaced during the sales cycle, enhancing customer satisfaction and loyalty.
  Implemented technical elements of the sales strategy, formulating solutions and cultivating technical relationships, driving sales growth.
  Assisted clients in defining specifications and requirements, playing a key role in the development of tailored solutions.
  Facilitated weekly training sessions to enhance the technological proficiency of account executives, significantly improving their ability to understand and sell complex technical products.
-Black Box Network Services March 2015 – January 2020
+
+Black Box Network Services worked March 2015 – January 2020
 Sales Engineer (2019 - 2020)
  Excelled as a presales engineer, specializing in the sale of Unified Communications, route/switch networks, data center infrastructure, wireless, and security system architectures.
  Provided customers with expert planning, design, and recommendations, paving the way for successful enterprise system deployments.
@@ -92,6 +96,16 @@ I am an AI subject matter expert for my region
 I contribute to cisco's generative ai green belt program and generative ai black belt program
 I do several other AI instructive webinars, both internal and customer facing
 Part of an initiative to interview various MLOps teams within Cisco to share with presales AI tiger teams
+
+random facts about justin:
+he loves to read, especially topics that make him think
+he is 39 years old
+he's a runner
+he is health concious
+he has a 3 year old
+he lives in ohio
+he grew up in pittsburgh
+he plays several instruments including drums, guitar, bass, and mandolin
 
 
 """
