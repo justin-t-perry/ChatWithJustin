@@ -1,12 +1,24 @@
 
-
+import os
 import streamlit as st
 import openai
 import nltk
 from rank_bm25 import BM25Okapi
 from nltk.tokenize import word_tokenize
 
-nltk.download('punkt')
+# nltk file setup
+nltk_data_path = os.path.join(os.getcwd(), 'nltk_data')
+if not os.path.exists(nltk_data_path):
+    os.makedirs(nltk_data_path)
+
+nltk.data.path.append(nltk_data_path)  # Add custom nltk_data path
+
+# Download the necessary data
+nltk.download('punkt', download_dir=nltk_data_path)
+nltk.download('punkt_tab', download_dir=nltk_data_path)
+
+
+
 
 # Set OpenAI API key
 openai.api_key = "YOUR_OPENAI_API_KEY"
