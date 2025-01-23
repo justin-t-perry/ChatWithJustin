@@ -87,8 +87,9 @@ Data Communications Engineer
 Artificial Intelligence Experience:
 Various python libraries such as scikit learn, pytorch, tensorflow
 worked with fraud ai startup with computer vision
-Convolutional Neural Networks
+works with Convolutional Neural Networks, large language models
 online courses and several ai books
+familiar with kaggle, python, ollama, etc.
 
 
 Cisco specific AI experience: 
