@@ -25,7 +25,7 @@ nltk.download('punkt_tab', download_dir=nltk_data_path)
 
 
 # Set OpenAI API key
-openai.api_key = "YOUR_OPENAI_API_KEY"
+openai.api_key = "swNQr8OblcLv2Wzd4t1MT3BlbkFJtJF38fuupZ1Gk661XfZ8"
 
 # Define the document as a variable
 document = """
