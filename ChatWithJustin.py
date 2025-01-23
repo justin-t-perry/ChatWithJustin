@@ -41,14 +41,14 @@ Skills
  Mentoring and Training: Demonstrated ability to guide and mentor team members, facilitating their integration and success within the team. Experienced in training customers on administration of platforms, enhancing their ability to fully leverage the technology.
 
 Professional Experience
-Cisco Systems worked 12th, 2023 - Present (1.5 years)
+Cisco Systems- worked 12th, 2023 - Present (1.5 years)
 Solutions Engineer
  Regional Solutions Engineer for commercial customers based in northeast Ohio
  Responsible for driving technical sales with Cisco’s broad product portfolio
  Collaborates with account managers, partner sellers, and customer technical stakeholders to drive sales
  Acting as subject matter expert for Artificial Intelligence for Central United States. Travels and supports fellow SE’s both within and outside of team to hold customer conversations as it relates to Cisco’s AI strategy. Assists in creating and presenting content for Cisco AI education, webinars, and events.
 
-AuthenticID worked May 2022 – October 2023 (1.5 years)
+AuthenticID- worked May 2022 – October 2023 (1.5 years)
 Sales Engineer
  Served as a Sales Engineer for an AI-driven platform specializing in cutting-edge machine learning, artificial intelligence, neural networks, and advanced computer vision technologies for fraud prevention.
  Bridged the gap between intricate business requirements, identity verification challenges, and fraud-related concerns to technical design solutions, contributing to revenue growth.
@@ -58,13 +58,13 @@ Sales Engineer
  Contributed to the development of sales engineering processes, aiding in the establishment of a new sales engineering team.
 !!this is an AI company.  this is where i worked with AI and had to update models and handle poc's, datasets, etc.
 
-iboss worked January 2022 - May 2022 (6 months)
+iboss- worked January 2022 - May 2022 (6 months)
 Technical Sales Executive
  Led go-to-market strategies, delivering sales results through effective solution architecture design and recommendations tailored to customer needs. Ensured successful customer onboarding through ownership of proof-of-concepts (POCs), initial configurations, and product training.
  Managed a territory encompassing Ohio and Western Pennsylvania, overseeing customer accounts of up to 10,000 employees, demonstrating strong customer and partner relationship management.
  Played a multi-faceted role involving solution architecture, account management, and channel partner coordination within the assigned territory, optimizing sales and partner relations.
 
-Lumen worked February 2020 – January 2022 (2 years)
+Lumen- worked February 2020 – January 2022 (2 years)
 Solution Engineer
  Excelled in selling services and products with specialized knowledge in voice/data/internet applications, carrier services, cloud technologies, security, big data, and enterprise deployments.
  Delivered technical customer support, adeptly resolving issues that surfaced during the sales cycle, enhancing customer satisfaction and loyalty.
@@ -72,7 +72,7 @@ Solution Engineer
  Assisted clients in defining specifications and requirements, playing a key role in the development of tailored solutions.
  Facilitated weekly training sessions to enhance the technological proficiency of account executives, significantly improving their ability to understand and sell complex technical products.
 
-Black Box Network Services worked March 2015 – January 2020 (5 years)
+Black Box Network Services- worked March 2015 – January 2020 (5 years)
 Sales Engineer (2019 - 2020)
  Excelled as a presales engineer, specializing in the sale of Unified Communications, route/switch networks, data center infrastructure, wireless, and security system architectures.
  Provided customers with expert planning, design, and recommendations, paving the way for successful enterprise system deployments.
@@ -81,7 +81,7 @@ Deployment Engineer (2015 - 2019)
  Effectively delivered Network and Unified Communications solutions as part of a Systems Integrator company, catering to large-scale customers nationwide. Offerings included IP Telephony, Voicemail, Call Recording, Video Conferencing, Instant Messaging, Contact Center, and Routing and Switching.
  Evolved from a novice to a subject matter expert in Black Box’s technology offerings, becoming a recognized subject matter expert and go-to resource for colleagues and clients.
 
-Westfield Group January 2012 – March 2015 (3.5 years)
+Westfield Group- January 2012 – March 2015 (3.5 years)
 Data Communications Engineer
  Played a key role in the collection of requirements, design, implementation, and troubleshooting of data networking infrastructures, VOIP systems, and wireless systems, contributing to optimal system performance.
  Effectively managed and resolved incidents, requests, and network changes, ensuring minimal disruption and maintaining system integrity.
