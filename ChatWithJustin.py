@@ -120,7 +120,7 @@ def query_gpt(context, user_input):
     response = openai.Completion.create(
         engine="gpt-4",  #
         prompt=f"Context: {context}\nQuestion: {user_input}",
-        max_tokens=250,  # Limit the response length
+        max_tokens=300,  # Limit the response length
         temperature=0.7  # Adjust randomness
     )
     # Extract and return the generated text
