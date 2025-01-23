@@ -1,6 +1,3 @@
-!pip install openai
-!pip install streamlit
-!pip install faiss-cpu
 
 
 import streamlit as st
