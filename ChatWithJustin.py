@@ -116,18 +116,15 @@ def retrieve_relevant_chunks(query, bm25, chunks, tokenized_chunks, k=1):
 
 # Query OpenAI GPT with retrieved context and user query
 def query_gpt(context, user_input):
-    # Use the latest ChatCompletion interface
-    response = openai.ChatCompletion.create(
-        model="gpt-4",  
-        messages=[
-            {"role": "system", "content": "You are a helpful assistant."},
-            {"role": "user", "content": f"Context: {context}\nQuestion: {user_input}"}
-        ],
-        max_tokens=150,
-        temperature=0.7
+    # Old-style Completion API call
+    response = openai.Completion.create(
+        engine="text-davinci-003",  # Specify the engine (e.g., text-davinci-003 or similar)
+        prompt=f"Context: {context}\nQuestion: {user_input}",
+        max_tokens=150,  # Limit the response length
+        temperature=0.7  # Adjust randomness
     )
-    # Extract and return the assistant's reply
-    return response['choices'][0]['message']['content'].strip()
+    # Extract and return the generated text
+    return response.choices[0].text.strip()
 
 # Streamlit app
 st.title("Resume Chatbot with RAG")
