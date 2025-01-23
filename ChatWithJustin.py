@@ -6,6 +6,8 @@ import nltk
 from rank_bm25 import BM25Okapi
 from nltk.tokenize import word_tokenize
 
+nltk.download('punkt')
+
 # Set OpenAI API key
 openai.api_key = "YOUR_OPENAI_API_KEY"
 
