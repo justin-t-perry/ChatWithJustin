@@ -118,7 +118,7 @@ def retrieve_relevant_chunks(query, bm25, chunks, tokenized_chunks, k=1):
 def query_gpt(context, user_input):
     # Use the latest ChatCompletion interface
     response = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",  # Use gpt-4 if needed
+        model="gpt-4",  
         messages=[
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": f"Context: {context}\nQuestion: {user_input}"}
