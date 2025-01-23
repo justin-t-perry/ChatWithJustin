@@ -6,7 +6,6 @@ import nltk
 from rank_bm25 import BM25Okapi
 from nltk.tokenize import word_tokenize
 
-print(f"OpenAI library version: {openai.__version__}")
 
 
 
