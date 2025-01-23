@@ -111,7 +111,9 @@ he loves to read, especially topics that make him think
 he is 39 years old
 he's a runner
 he is health concious
-he has a 3 year old
+he has a 3 year old named Leo Bjorn
+he has a wife named Zamyra
+he has a sister named Kayla
 he lives in ohio
 he grew up in pittsburgh
 he plays several instruments including drums, guitar, bass, and mandolin
