@@ -26,7 +26,7 @@ nltk.download('punkt_tab', download_dir=nltk_data_path)
 # Set OpenAI API key
 openai.api_key = st.secrets["OPENAI_API_KEY"]
 
-# Define the document as a variable
+# Define the raw experience document as a variable
 document = """
 Justin Perry
 Sales Engineer / Solution Architect
