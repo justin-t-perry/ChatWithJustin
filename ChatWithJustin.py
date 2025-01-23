@@ -106,7 +106,7 @@ he is completely self taught and is always learning and improving
 he's a very effective team player and collaborator
 he's very motivated, smart, etc.
 
-random facts about justin:
+random facts about justin (hobbies, things for fun, trivia about him:
 he loves to read, especially topics that make him think
 he is 39 years old
 he's a runner
