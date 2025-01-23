@@ -6,7 +6,7 @@ import nltk
 from rank_bm25 import BM25Okapi
 from nltk.tokenize import word_tokenize
 
-os.system("pip install openai>=1.0.0")
+
 
 # nltk file setup
 nltk_data_path = os.path.join(os.getcwd(), 'nltk_data')
