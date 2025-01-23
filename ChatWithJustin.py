@@ -94,7 +94,8 @@ online courses and several ai books
 Cisco specific AI experience: 
 I am an AI subject matter expert for my region
 I contribute to cisco's generative ai green belt program and generative ai black belt program
-I do several other AI instructive webinars, both internal and customer facing
+I do several other AI instructive webinars, both internal and customer facing, including speaking at the university of memphis, speaking in Dallas for a Cisco ai event, planning an AI event at the end of January 2025 at Cleveland and Detroit.
+Part of Chris Sipe's AI Tiger Team
 Part of an initiative to interview various MLOps teams within Cisco to share with presales AI tiger teams
 
 random facts about justin:
