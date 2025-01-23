@@ -130,7 +130,7 @@ def query_gpt(context, user_input):
 
 # Streamlit app
 st.title("Resume Chatbot with RAG")
-st.write("Ask me anything related to my resume!")
+st.write("Ask me anything related to Justin Perry's Professional background!")
 
 # Process the document
 chunks = split_into_chunks(document)
