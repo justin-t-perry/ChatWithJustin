@@ -129,8 +129,8 @@ he started working with cisco when he built a lab in his apartment and self-stud
 
 # Split the document into chunks based on paragraphs or headings
 def split_into_chunks(document):
-    chunks = document.split("\n\n")  # Splitting by double newlines
-    return [{"content": chunk} for chunk in chunks if chunk.strip()]  # Remove empty chunks
+    chunks = document.split("\n\n")  
+    return [{"content": chunk} for chunk in chunks if chunk.strip()]  
 
 # Initialize BM25 index
 def initialize_bm25(chunks):
