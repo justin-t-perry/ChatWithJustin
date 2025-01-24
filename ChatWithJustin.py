@@ -139,7 +139,7 @@ def initialize_bm25(chunks):
     return bm25, tokenized_chunks
 
 # Retrieve relevant chunks based on user query
-def retrieve_relevant_chunks(query, bm25, chunks, tokenized_chunks, k=1):
+def retrieve_relevant_chunks(query, bm25, chunks, tokenized_chunks, k=2):
     tokenized_query = word_tokenize(query)
     scores = bm25.get_scores(tokenized_query)
     top_k_indices = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)[:k]
