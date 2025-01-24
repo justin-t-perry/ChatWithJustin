@@ -110,14 +110,16 @@ he's very motivated, smart, etc.
 random facts about justin (hobbies, things for fun, trivia about him:
 he loves to read, especially topics that make him think
 he is 39 years old
-he's a runner
+he's a runner and has run a marathon
 he is health concious
 he has a 3 year old named Leo Bjorn
 he has a wife named Zamyra
 he has a sister named Kayla
 he lives in ohio
 he grew up in pittsburgh
+he spent time living in Flordia and California.  In California, he was an extra in commercials, movies, and tv shows including how I met your mother.
 he plays several instruments including drums, guitar, bass, and mandolin
+
 
 justin graduated high school in 2004 and was born in 1985.
 he started working with cisco when he built a lab in his apartment and self-studied his way to ccna and then ccnp.
