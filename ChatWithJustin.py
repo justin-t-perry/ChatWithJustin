@@ -148,12 +148,12 @@ def query_gpt(context, user_input):
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": f"Context: {context}\nQuestion: {user_input}"}
         ],
-        max_tokens=150,  # Adjust the response length
-        temperature=0.7  # Adjust randomness
+        max_tokens=150,  
+        temperature=0.7  
     )
     return response['choices'][0]['message']['content'].strip()
 
-# Streamlit app
+# Streamlit 
 st.title("Professional Experience Chatbot with RAG")
 st.write("Ask me anything related to Justin Perry's Professional background! (For example: Tell me about Justin's AI experience, or Tell me about Justin's hobbies)")
 
