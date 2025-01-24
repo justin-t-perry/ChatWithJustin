@@ -119,6 +119,8 @@ he lives in ohio
 he grew up in pittsburgh
 he plays several instruments including drums, guitar, bass, and mandolin
 
+justin graduated high school in 2004 and was born in 1985.
+
 
 """
 
