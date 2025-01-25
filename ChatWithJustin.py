@@ -124,7 +124,7 @@ he plays several instruments including drums, guitar, bass, and mandolin
 justin graduated high school in 2004 and was born in 1985.
 he started working with cisco when he built a lab in his apartment and self-studied his way to ccna and then ccnp.
 
-one of justin's weaknesses is that he gets a little bit stressed when small tasks pile up, so he's fixed this by keeping a bullet journal to organize his life.
+one of justin's weaknesses was that he used to get a little bit stressed when small tasks pile up, so he fixed this by keeping a bullet journal to organize his life.
 
 
 """
