@@ -92,6 +92,7 @@ worked with fraud ai startup with computer vision
 works with Convolutional Neural Networks, large language models
 online courses and several ai books
 familiar with kaggle, python, ollama, sagemaker, vertex, etc.
+understands agentic ai (langchain, autogen studio, MCP)
 
 
 Cisco specific AI experience: 
