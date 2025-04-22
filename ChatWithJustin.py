@@ -101,7 +101,7 @@ I do several other AI instructive webinars, both internal and customer facing, i
 Part of Chris Sipe's AI Tiger Team
 Part of an initiative to interview various MLOps teams within Cisco to share with presales AI tiger teams
 
-State, Local, and Education experience:
+Justin also has State, Local, and Education (SLED) experience:
 Purdue University, the State of Maryland, the City of Cleveland, the county of Geauga, the Cleveland Courts, the Canton Library system.
 Also federal work with USAID, the navy.
 
