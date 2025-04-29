@@ -14,9 +14,9 @@ nltk_data_path = os.path.join(os.getcwd(), 'nltk_data')
 if not os.path.exists(nltk_data_path):
     os.makedirs(nltk_data_path)
 
-nltk.data.path.append(nltk_data_path)  # Add custom nltk_data path
+nltk.data.path.append(nltk_data_path)  
 
-# Download the necessary data
+# Download nltk data
 nltk.download('punkt', download_dir=nltk_data_path)
 nltk.download('punkt_tab', download_dir=nltk_data_path)
 
@@ -166,7 +166,7 @@ def query_gpt(context, user_input):
     return response['choices'][0]['message']['content'].strip()
 
 # Streamlit 
-st.title("Professional Experience Chatbot with RAG")
+st.title("Justin Perry's Professional Experience Chatbot with RAG")
 st.write("Ask me anything related to Justin Perry's Professional background! (For example: Tell me about Justin's AI experience, or Tell me about Justin's hobbies)")
 
 # Process the document
